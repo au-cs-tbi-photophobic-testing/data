@@ -1,2 +1,2 @@
 # data
-data from mTurk, graphs, plots, analysis
+see data folder in js tests for majority if data
